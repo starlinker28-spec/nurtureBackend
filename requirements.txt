@@ -1,0 +1,6 @@
+django
+dj-rest-auth
+djangorestframkework
+django-allauth   
+requests
+jwt
